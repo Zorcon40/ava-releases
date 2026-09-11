@@ -1,9 +1,13 @@
 # Ava for Mac
 
-[Download the latest Ava beta](https://github.com/Zorcon40/ava-releases/releases/latest)
+[Download Ava build 20](https://github.com/Zorcon40/ava-releases/releases/tag/v0.3.1-b20)
 
-Universal download for Apple Silicon and Intel, macOS 13 or later. Drag Ava into Applications and complete setup. This locally signed beta is not Apple-notarized.
+Universal beta for Apple Silicon and Intel Macs running macOS 13 or later. Drag Ava into Applications and complete account connection; Ava guides personalization in conversation.
 
-**Build 7 users:** manually download and replace Ava once. That build has an updater startup bug. Replacing the app preserves your data; later builds receive signed updates through Ava.
+Build 20 adds conversational writing-style setup, Apple Mail Sent analysis, Ava’s distinct conversational voice and smoother text rendering. Existing app updates preserve your settings, history and memory.
 
-This repository hosts compiled downloads, checksums, release notes and the signed update feed only. Ava source code is private.
+**Build 7 users:** manually download and replace Ava once. That build has an updater startup bug. Later builds use the signed in-app update feed.
+
+This locally signed beta is not Apple-notarized. See the release notes for macOS approval guidance, data handling and remaining validation limits.
+
+This repository contains compiled downloads, checksums, release notes and the signed update feed only. Source code remains private.
