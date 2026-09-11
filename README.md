@@ -1,10 +1,10 @@
 # Ava for Mac
 
-[Download Ava build 20](https://github.com/Zorcon40/ava-releases/releases/tag/v0.3.1-b20)
+[Download Ava build 22](https://github.com/Zorcon40/ava-releases/releases/tag/v0.3.1-b22)
 
-Universal beta for Apple Silicon and Intel Macs running macOS 13 or later. Drag Ava into Applications and complete account connection; Ava guides personalization in conversation.
+Universal beta for Apple Silicon and Intel Macs running macOS 13 or later. Open the DMG, drag Ava into Applications, then open Ava from Applications and follow guided setup.
 
-Build 20 adds conversational writing-style setup, Apple Mail Sent analysis, Ava’s distinct conversational voice and smoother text rendering. Existing app updates preserve your settings, history and memory.
+Build 22 includes Ava’s local voice and compatible components, restores setup for permissions and connections, improves installation guidance, and fixes long-message dictation cutoffs. Voice setup works from the included files without an additional download. Existing updates preserve settings, history and memory.
 
 **Build 7 users:** manually download and replace Ava once. That build has an updater startup bug. Later builds use the signed in-app update feed.
 
