@@ -1,15 +1,15 @@
 # Ava for Mac
 
-[Download Ava build 40](https://github.com/Zorcon40/ava-releases/releases/tag/v0.3.1-b40)
+[Download the latest Ava](https://github.com/Zorcon40/ava-releases/releases/latest)
 
-Universal beta for Apple Silicon and Intel Macs running macOS 13 or later. Open the DMG, drag Ava into Applications, then open Ava and follow guided setup.
+Ava 0.4.0 build 47 is a text-only Mac assistant with a full-height glass chat panel, native computer control, persistent preferences, personality controls, and task recovery with result checks.
 
-Build 40 includes “Hey Ava” dictation with AI cleanup, concise responses, built-in computer control, bundled engine dependencies, guided permissions, default-browser handling, saved drafts, and automatic-update recovery improvements.
+Return sends a request; Shift–Return adds a line. When a response is ready, the panel reappears and the orb briefly spins. GPT Live and wake-word listening are removed from this release.
 
-Build 40 retains the build 36 dictation implementation, adds shorter confirmations and improves requested-task defaults for fresh setups. Voice interruption is deferred; capture pauses while Ava speaks.
+The universal download includes Apple Silicon and Intel binaries for macOS 13 or later. Open the DMG, drag Ava into Applications, then open Ava and follow setup. Existing compatible installations with automatic updates enabled download the signed update and install when idle; saved work delays replacement.
 
-**Build 7 users:** manually replace Ava once; that build’s updater cannot start. Later compatible builds use the signed update feed.
+**Build 40 with wake listening enabled:** disable wake listening and check for updates, or replace the app manually. Its old idle-detection bug can prevent automatic installation. **Build 7:** manually replace the app once because that build’s updater cannot start.
 
-This locally signed personal-test beta is not Apple-notarized. Physical Intel/clean-Mac and final public-feed upgrade acceptance remain incomplete. See release notes for validation limits.
+This locally signed personal-test distribution is not Apple-notarized. Physical Intel/macOS 13 and clean-Mac acceptance remain unverified. See individual release notes for validation limits.
 
 This repository contains compiled downloads, checksums, release notes and the signed update feed only. Source code remains private.
