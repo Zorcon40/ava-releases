@@ -2,11 +2,11 @@
 
 [Download the latest Ava](https://github.com/Zorcon40/ava-releases/releases/latest)
 
-Ava 0.4.0 build 47 is a text-only Mac assistant with a full-height glass chat panel, native computer control, persistent preferences, personality controls, and task recovery with result checks.
+Ava 0.4.0 build 74 brings Chat, Work, Voice, Control and settings into a compact dark-glass dashboard with the gold orb identity. It includes native computer control, persistent preferences and memory, and task recovery with result checks.
 
-Return sends a request; Shift–Return adds a line. When a response is ready, the panel reappears and the orb briefly spins. GPT Live and wake-word listening are removed from this release.
+Option–Space opens the dashboard and focuses typing. Return sends a request; Shift–Return adds a line. The dashboard stays visible while the gold screen halo indicates work. Control–Option–Space starts or ends conversational Voice directly. Voice processes microphone audio locally and sends recognized text to your connected language model; ending Voice stops capture. Opening the dashboard prepares the engine without enabling the microphone. No wake word or hosted voice gateway is used.
 
-The universal download includes Apple Silicon and Intel binaries for macOS 13 or later. Open the DMG, drag Ava into Applications, then open Ava and follow setup. Existing compatible installations with automatic updates enabled download the signed update and install when idle; saved work delays replacement.
+The universal download includes Apple Silicon and Intel binaries for macOS 13 or later. Conversational Voice requires macOS 14+ and a one-time local model download. Open the DMG, drag Ava into Applications, then open Ava and follow setup. Existing compatible installations with automatic updates enabled download the signed update and install when idle; active work and unsent drafts delay replacement. Updates preserve preferences, conversations, memory and downloaded voice models.
 
 **Build 40 with wake listening enabled:** disable wake listening and check for updates, or replace the app manually. Its old idle-detection bug can prevent automatic installation. **Build 7:** manually replace the app once because that build’s updater cannot start.
 
