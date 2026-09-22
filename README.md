@@ -2,7 +2,7 @@
 
 [Download the latest Ava](https://github.com/Zorcon40/ava-releases/releases/latest)
 
-Ava 0.4.0 build 74 brings Chat, Work, Voice, Control and settings into a compact dark-glass dashboard with the gold orb identity. It includes native computer control, persistent preferences and memory, and task recovery with result checks.
+Ava 0.4.0 build 75 brings Chat, Work, Voice, Control and settings into a compact dark-glass dashboard with the gold orb identity. The Dock, Finder, menu bar and app now consistently use the free-standing transparent gold orb instead of the retired folded-A icon or a legacy backplate. It includes native computer control, persistent preferences and memory, and task recovery with result checks.
 
 Option–Space opens the dashboard and focuses typing. Return sends a request; Shift–Return adds a line. The dashboard stays visible while the gold screen halo indicates work. Control–Option–Space starts or ends conversational Voice directly. Voice processes microphone audio locally and sends recognized text to your connected language model; ending Voice stops capture. Opening the dashboard prepares the engine without enabling the microphone. No wake word or hosted voice gateway is used.
 
