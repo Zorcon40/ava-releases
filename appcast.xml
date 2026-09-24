@@ -5,15 +5,15 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
         <title>Ava</title>
         <item>
             <title>0.4.0</title>
-            <pubDate>Wed, 23 Sep 2026 03:07:29 -0500</pubDate>
+            <pubDate>Thu, 24 Sep 2026 11:22:33 -0500</pubDate>
             <link>https://github.com/Zorcon40/ava-releases/releases</link>
-            <sparkle:version>79</sparkle:version>
+            <sparkle:version>87</sparkle:version>
             <sparkle:shortVersionString>0.4.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/Zorcon40/ava-releases/releases/download/v0.4.0-b79/Ava-0.4.0-b79-universal-personal-test.dmg" length="248966509" type="application/octet-stream" sparkle:edSignature="J4AohUmWA6qpQ4WDVjQAz5AnYQ+dmdxjMPAL9639W8a7PUIQ5hJUPGRD9itNA07wPHvRH00BJlCPlij+00lgAg=="></enclosure>
+            <enclosure url="https://github.com/Zorcon40/ava-releases/releases/download/v0.4.0-b87/Ava-0.4.0-b87-universal-personal-test.dmg" length="249638593" type="application/octet-stream" sparkle:edSignature="BVYyD/foyeHpewHGetXsOcbofTN1lPq+GLv7Gqxx4UMobc9lc5SidKFdO9NaRzIjo9cqjFsOy8LDZPvQyHvvBA=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: XIoqDLCNmFtB/N6hYv7IZ71hJGxQmw+3KsbnWVSG+cbyk46rwdP0loJ+Mdvm+AiA3JKhhT4szB9bbvfdE64cBg==
+edSignature: 0UvJ6VMTy0DPlIHLVzRDxaMLagcf/ipcnUBmGB95slY1CEbmpLdV5bo44nYMIT5Q36kPWcBRQ9XxdImoc3xzBA==
 length: 1145
 -->
