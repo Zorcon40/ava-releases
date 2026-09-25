@@ -2,9 +2,11 @@
 
 [Download the latest Ava](https://github.com/Zorcon40/ava-releases/releases/latest)
 
-Ava 0.4.0 build 75 brings Chat, Work, Voice, Control and settings into a compact dark-glass dashboard with the gold orb identity. The Dock, Finder, menu bar and app now consistently use the free-standing transparent gold orb instead of the retired folded-A icon or a legacy backplate. It includes native computer control, persistent preferences and memory, and task recovery with result checks.
+Ava 0.4.0 build 88 adds reviewed permissions for scoped scheduled read tasks, bounded recovery and environment waits, stronger Mail completion evidence, desktop input yielding, responsive credential handling and improved diagnostics. It retains native computer control, persistent preferences, conversations and memory. The selected AI model defaults are unchanged.
 
-Option–Space opens the dashboard and focuses typing. Return sends a request; Shift–Return adds a line. The dashboard stays visible while the gold screen halo indicates work. Control–Option–Space starts or ends conversational Voice directly. Voice processes microphone audio locally and sends recognized text to your connected language model; ending Voice stops capture. Opening the dashboard prepares the engine without enabling the microphone. No wake word or hosted voice gateway is used.
+This release is an autonomy foundation, not a fully autonomous general computer operator. Broader unattended writes and real-world workflow, input, sleep and acoustic acceptance remain in progress; no measured speedup is claimed. See the release notes for exact limits.
+
+Voice sessions are explicit. Microphone audio is processed locally and recognized text is sent to the connected language model. Ending Voice stops capture. No wake word or hosted voice gateway is used.
 
 The universal download includes Apple Silicon and Intel binaries for macOS 13 or later. Conversational Voice requires macOS 14+ and a one-time local model download. Open the DMG, drag Ava into Applications, then open Ava and follow setup. Existing compatible installations with automatic updates enabled download the signed update and install when idle; active work and unsent drafts delay replacement. Updates preserve preferences, conversations, memory and downloaded voice models.
 
