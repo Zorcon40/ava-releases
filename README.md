@@ -2,7 +2,7 @@
 
 [Download the latest Ava](https://github.com/Zorcon40/ava-releases/releases/latest)
 
-Ava 0.4.0 build 95 adds a guided setup after ChatGPT sign-in. It walks through macOS permissions and offers optional bounded background Mail and planning access. Approved scheduled tasks can prepare one new unsent Apple Mail reply per run; sending is never included. Existing users can manage background access in Settings → Connections. See the release notes for exact limits and testing status.
+Ava 0.4.0 build 96 fixes a timer error that cancelled approved scheduled tasks as they started. It retains guided setup and bounded background Mail and planning access from build 95. Approved scheduled tasks can prepare one new unsent Apple Mail reply per run; sending is never included. Existing users can manage background access in Settings → Connections. See the release notes for exact limits and testing status.
 
 Broader unattended writes and real-world Mail, input, sleep and acoustic acceptance remain in progress; no measured speedup is claimed. See the release notes for exact limits.
 
