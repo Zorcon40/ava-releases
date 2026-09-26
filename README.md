@@ -2,7 +2,7 @@
 
 [Download the latest Ava](https://github.com/Zorcon40/ava-releases/releases/latest)
 
-Ava 0.4.0 build 88 adds reviewed permissions for scoped scheduled read tasks, bounded recovery and environment waits, stronger Mail completion evidence, desktop input yielding, responsive credential handling and improved diagnostics. It retains native computer control, persistent preferences, conversations and memory. The selected AI model defaults are unchanged.
+Ava 0.4.0 build 89 makes complete responses readable in the sidebar, fixes overlapping model controls, and simplifies Settings with clearer buttons and collapsed advanced options. It retains the build-88 autonomy foundation, native computer control, persistent preferences, conversations and memory. Existing AI model defaults and permissions are unchanged.
 
 This release is an autonomy foundation, not a fully autonomous general computer operator. Broader unattended writes and real-world workflow, input, sleep and acoustic acceptance remain in progress; no measured speedup is claimed. See the release notes for exact limits.
 
