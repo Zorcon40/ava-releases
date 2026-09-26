@@ -2,9 +2,9 @@
 
 [Download the latest Ava](https://github.com/Zorcon40/ava-releases/releases/latest)
 
-Ava 0.4.0 build 93 lets Ava attach successful private extension reads to the current task's evidence and records structured extension errors as failures. Extension output supports Ava's assessment; it does not certify business facts. This build retains build 92's typing and side overlay fixes, build 89's complete sidebar responses and simpler Settings, and the build-88 autonomy foundation. Native computer control, preferences, conversations, memory, AI model defaults and permissions are unchanged.
+Ava 0.4.0 build 95 adds a guided setup after ChatGPT sign-in. It walks through macOS permissions and offers optional bounded background Mail and planning access. Approved scheduled tasks can prepare one new unsent Apple Mail reply per run; sending is never included. Existing users can manage background access in Settings → Connections. See the release notes for exact limits and testing status.
 
-This release is an autonomy foundation, not a fully autonomous general computer operator. Broader unattended writes and real-world workflow, input, sleep and acoustic acceptance remain in progress; no measured speedup is claimed. See the release notes for exact limits.
+Broader unattended writes and real-world Mail, input, sleep and acoustic acceptance remain in progress; no measured speedup is claimed. See the release notes for exact limits.
 
 Voice sessions are explicit. Microphone audio is processed locally and recognized text is sent to the connected language model. Ending Voice stops capture. No wake word or hosted voice gateway is used.
 
